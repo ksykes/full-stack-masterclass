@@ -27,6 +27,6 @@ Eating no meat or animal products at all is the most obvious and easy way to avo
     * Information about what the terms "free-run" (uncaged, indoors), "free-range" (uncaged, with some access to outdoors), "grass-fed" and "pasture-raised" really mean (they don't come with any official certification or monitoring)
 
 ## Discovery Phase:
-[x] Researched Data - there are a number of databases that focus specifically on organic food: will use these as a starting point + incorporate ethical farms as well
-[] Pseudo Code
-[] Wireframe
+- [x] Researched Data - there are a number of databases that focus specifically on organic food: will use these as a starting point + incorporate ethical farms as well
+- [] Pseudo Code
+- [] Wireframe
