@@ -28,5 +28,5 @@ Eating no meat or animal products at all is the most obvious and easy way to avo
 
 ## Discovery Phase:
 - [x] Researched Data - there are a number of databases that focus specifically on organic food: will use these as a starting point + incorporate ethical farms as well
-- [] Pseudo Code
-- [] Wireframe
+- [ ] Pseudo Code
+- [ ] Wireframe
